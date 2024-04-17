@@ -7,7 +7,6 @@ function Button() {
   return (
     <div>
         <button onClick={doSomething()}>Click Me</button>
-        <p onMouseOver={}></p>
     </div>
   )
 }
